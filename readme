@@ -1,5 +1,7 @@
 # cmdline
 sudo apt install -y vim curl wget nmap openssh-server net-tools neofetch btop tree glances lnav zsh wireguard exa 
+# sudo -i
+bash <(curl -sSL https://linuxmirrors.cn/main.sh)
 
 # shell
 export http_proxy=http://10.0.29.2:7890

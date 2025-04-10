@@ -1,5 +1,5 @@
 # cmdline
-sudo apt install -y vim curl wget nmap openssh-server net-tools neofetch btop tree glances lnav zsh wireguard exa 
+sudo apt install vim curl wget nmap openssh-server net-tools neofetch btop tree glances lnav zsh wireguard exa 
 # sudo -i
 bash <(curl -sSL https://linuxmirrors.cn/main.sh)
 
